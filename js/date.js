@@ -19,7 +19,7 @@ function getTimeRemaining(endtime) {
     function updateClock() {
       var t = getTimeRemaining(endtime);
   
-      clock.innerHTML = t.days + " дня ";
+      clock.innerHTML = t.days + " день ";
       clock.innerHTML += ('0' + t.hours).slice(-2) + ":";
       clock.innerHTML += ('0' + t.minutes).slice(-2) + ":";
       clock.innerHTML += ('0' + t.seconds).slice(-2);
