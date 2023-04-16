@@ -42,7 +42,7 @@
             }
         }
 
-        for (let i = 1; i <= 57; i++) {
+        for (let i = 1; i <= 54; i++) {
             itemOther += createItemOther('', i);
         }
 
