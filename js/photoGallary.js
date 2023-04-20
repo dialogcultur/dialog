@@ -1,12 +1,12 @@
 (function() {
     const countPhotoGallary = {
         architectureProjectOrLayout: 2,
-        drawingAndPainting: 10,
+        drawingAndPainting: 14,
         architecturalAndArtisticComposition: 5,
-        photo: 0,
+        photo: 9,
         communicationDesign: 0,
-        interiorEnvironmentDesign: 0,
-        artsAndCrafts: 4,
+        interiorEnvironmentDesign: 2,
+        artsAndCrafts: 7,
         industrialDesign: 0
     }
 
